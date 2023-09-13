@@ -1,2 +1,2 @@
 # FirstFrdInomoneyGithub
-first github
+The main file for github shit
